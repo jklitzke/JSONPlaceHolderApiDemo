@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='JSONPlaceHolderApiDemoTests.xctest' tests='3' failures='0'>
+  <testsuite name='JSONPlaceHolderApiDemoTests.DetailViewControllerTests' tests='1' failures='0'>
+    <testcase classname='JSONPlaceHolderApiDemoTests.DetailViewControllerTests' name='testDetailViewController_ShouldShowUserAddress' time='0.027'/>
+  </testsuite>
+  <testsuite name='JSONPlaceHolderApiDemoTests.MasterViewControllerTests' tests='2' failures='0'>
+    <testcase classname='JSONPlaceHolderApiDemoTests.MasterViewControllerTests' name='testTableView_WithSingleUser_ShouldContainOneRow' time='0.004'/>
+    <testcase classname='JSONPlaceHolderApiDemoTests.MasterViewControllerTests' name='testTableViewCell_WithValidUser_ShouldShowUserName' time='0.004'/>
+  </testsuite>
+</testsuites>
